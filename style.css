@@ -93,7 +93,7 @@ html, body{
   border-top: 2px solid #b4b4b4;
   margin-top: .3rem;
   margin-bottom: 1rem;
-  width: 95%;
+  width: 50%;
 }
 
 .gifpanel{
@@ -105,7 +105,7 @@ html, body{
   opacity: 0.5;
   color: white;
   border-radius: 10px;
-  height: 42rem;
+  height: 44rem;
 
 }
 
@@ -262,8 +262,9 @@ hr.light-100 {
     top: 28%;
 
   }
-  .carousel-caption h1{
-    font-size: 150%%;
+  .carousel-caption display-2{
+    font-size: 100%;
+    font-weight: 100;
 
   }
   .carousel-caption h3{
